@@ -1,0 +1,14 @@
+{
+  "run_id": "835c5d7e-2d6b-46bc-85da-65264c31aae5",
+  "dataset": "Cleaned_NASA_POWER_Monthly",
+  "source_file": "Cleaned_NASA_POWER_Monthly.csv",
+  "rows_written": 120,
+  "partition_cols": [
+    "year",
+    "month"
+  ],
+  "location_col": null,
+  "out_root": "data_lake",
+  "timestamp": "2025-11-09T14:27:46.569981",
+  "timestamp_end": "2025-11-09T14:27:46.734233"
+}

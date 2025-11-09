@@ -1,0 +1,28 @@
+[
+  {
+    "run_id": "48b0fe40-027e-401a-bf47-c11a942c611a",
+    "dataset": "Cleaned_EPA_O3_Monthly",
+    "source_file": "C:\\Users\\HP\\Desktop\\Capstone Project\\Cleaned_EPA_O3_Monthly.csv",
+    "rows_written": 120,
+    "partition_cols": [
+      "year",
+      "month"
+    ],
+    "location_col": null,
+    "out_root": "C:\\Users\\HP\\Desktop\\Capstone Project\\data_lake",
+    "timestamp": "2025-11-09T13:52:56.814135Z"
+  },
+  {
+    "run_id": "6cc1a446-0037-4278-b2cf-9e3c1e339915",
+    "dataset": "Cleaned_EPA_O3_Monthly",
+    "source_file": "Cleaned_EPA_O3_Monthly.csv",
+    "rows_written": 120,
+    "partition_cols": [
+      "year",
+      "month"
+    ],
+    "location_col": null,
+    "out_root": "C:\\Users\\HP\\Desktop\\Capstone Project\\data_lake",
+    "timestamp": "2025-11-09T14:08:05.935444Z"
+  }
+]

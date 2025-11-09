@@ -1,0 +1,38 @@
+# -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.dist-info/
+env/
+venv/
+.modis_env/
+.idea/
+.vscode/
+
+# -------------------------------
+# Data / Outputs
+# -------------------------------
+data_lake/
+*.csv
+*.parquet
+*.db
+*.duckdb
+etl_metadata.json
+etl_metadata.db
+
+# -------------------------------
+# Logs and temporary files
+# -------------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------------
+# OS-specific files
+# -------------------------------
+.DS_Store
+Thumbs.db

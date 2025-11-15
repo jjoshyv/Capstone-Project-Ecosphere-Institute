@@ -1,0 +1,6 @@
+{
+  "input": "data_lake\\feature_sets\\features.parquet",
+  "n_locations": 1,
+  "status": "skipped_not_enough_locations",
+  "timestamp": "2025-11-11T13:40:51.050774"
+}

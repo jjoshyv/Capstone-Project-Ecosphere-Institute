@@ -1,0 +1,13 @@
+{
+  "input": "data_lake\\feature_sets\\features.parquet",
+  "rows_used": 120,
+  "locations": 1,
+  "value_col": "O3_ug_m3",
+  "date_col": "Date",
+  "location_col": "location_inferred",
+  "min_obs": 12,
+  "outputs": {
+    "summary_csv": "analysis_outputs\\trends\\trend_summary.csv",
+    "plots_dir": "analysis_outputs\\trends\\plots"
+  }
+}

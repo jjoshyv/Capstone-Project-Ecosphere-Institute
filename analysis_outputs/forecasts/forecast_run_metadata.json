@@ -1,0 +1,6 @@
+{
+  "input": "data_lake\\feature_sets\\features.parquet",
+  "engine": "prophet",
+  "target_col": "O3_ug_m3",
+  "n_locations": 1
+}
